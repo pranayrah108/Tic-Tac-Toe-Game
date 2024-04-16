@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-Game
+This project involves creating a Tic-Tac-Toe game using HTML, CSS, and JavaScript with DOM manipulation. Players take turns making moves until one achieves a straight 3-block chain, winning the game. The front-end design is kept simple, focusing on logic implementation and validation checks.
